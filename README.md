@@ -1,4 +1,5 @@
 # Welcome to your Lovable project
+#test it out : https://crafted-career-resume.lovable.app
 
 ## Project info
 
